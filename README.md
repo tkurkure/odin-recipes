@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be a recipe blog showcasing dishes from Michelin-starred chefs across a variety of global cuisines. Through this project, I will apply my HTML coding skills to build a functional website that allows users to easily read and follow these incredible recipes. 
